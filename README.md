@@ -3,7 +3,7 @@ This is our first GitHub
 activity.
 Members names:
 Mahinay mikaela (leader)
-Armillos Kc
 Ramirez Christian
+Armillos Kc
 Verino allyson ryan
 Balde Allysa samanta
