@@ -34,7 +34,14 @@ def viewRec():
  		read_file.close()
 
 def clearRec():
- file = open(filename, 'w')
- file.write("")
- file.close()
+	file = open(filename, 'w')
+	file.write("")
+ 	file.close()
+
+try:
+ 	filename = 'file1.txt'
+ 	file = open(filename, "x")
+ 	print(filename + " successfully created.")
+except:
+ 	print(filename + " already exists.")
 
